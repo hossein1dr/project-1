@@ -25,9 +25,9 @@ void hello_world(String x, int age):
     print("Say hello world")
 ```
 ### Table 
------
-| home |         photo|
---------------------|-------------|
-hello    |bmw.jpg
-good  | benz.jpg |
-No    | doge.png|
+----- 
+| Home  | Photo     | Games          | Names  | Citys |
+|-------|-----------|----------------|--------|-------|
+| hello | bmw.jpg   | pubg           | hosein |Theran |
+| good  | benz.jpg  | call of duty   | hamid  |Shiraz |
+| No    | doge.png  | gta            | hesam  |Gilan  |
