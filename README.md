@@ -14,3 +14,15 @@ This the brand new our first project over GitHub Server.
     + MIT
     + Apache
 + Extra: Hossein should add Artin as a new contributer to the `project-2`.
+
+```py
+def hello_world():
+    print("Say hello world")
+```
+
+```dart
+void hello_world(String x, int age):
+    print("Say hello world")
+```
+
+
