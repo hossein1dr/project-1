@@ -59,3 +59,16 @@ And it's real change from Sony, Here is my change.
  ----
   [this is the first link ](https://google.com)
 
+----
+## Fenced Code Block
+```
+first name:hosein,
+last name:daryaei,
+age:17
+```
+---
+## Footnote
+
+
+	Here's a sentence with a footnote. 
+[^1]: This is the first footnote.
