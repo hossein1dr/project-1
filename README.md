@@ -29,9 +29,9 @@ void hello_world(String x, int age):
 ----- 
 | Home  | Photo     | Games          | Names  | Citys |
 |-------|-----------|----------------|--------|-------|
-| hello | ![lamborghini](images/img-1.jpg)   | pubg           | hosein |Theran |
-| good  | <img src="images/img-2.jpg" width=150 height=100>| call of duty   | hamid  |Shiraz |
-| No    | ![Nissan GTR](images/img-3.jpg)  | gta            | hesam  |Gilan  |
+| hello | <img src="images/img-1.jpg" alt="dodge" width=150 height=100>  | pubg           | hosein |Theran |
+| good  | <img src="images/img-2.jpg" alt="Nissan GTR" width=150 height=100>| call of duty   | hamid  |Shiraz |
+| No    | <img src="images/img-3.jpg" alt="lamborghini" width=150 height=100> | gta            | hesam  |Gilan  |
 
 ### Artin's change
 
