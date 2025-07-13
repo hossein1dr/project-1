@@ -23,3 +23,11 @@ let 2
 ![alt text](image 2/download.webp)
 
 >***This is a bold-italic text***
+
+##
+😂
+
+##
+
+First Text [^1]
+[^1]: First
