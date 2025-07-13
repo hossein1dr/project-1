@@ -74,5 +74,7 @@ this is a first note.[^1]
 [^1]:this is a first note.
 
 
-[^importsnt] :this not is vary important!
+hello :[^importsnt] 
+[^important]:this note is vary important!
+this is a note. [^note]
 [^note]:this is a note
