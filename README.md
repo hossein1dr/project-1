@@ -124,3 +124,46 @@ age:17
   ## Superscript
 
 X^2^
+
+---
+## **`Fonts Size`** 
+
+# Hello
+## Hello
+### Hello
+#### Hello
+##### Hello
+###### Hello
+$ Hello $
+$$ Hello $$
+*Hello*
+
+**Hello**
+
+***Hello***
+
+~~Hello~~
+
+~~**Hello**~~
+
+~~***Hello***~~
+
+# `Hello`
+## `Hello`
+### `Hello`
+#### `Hello`
+##### `Hello`
+###### `Hello`
+$ Hello $
+$$ Hello $$
+*Hello*
+
+**`Hello`**
+
+***`Hello`***
+
+~~`Hello`~~
+
+~~**`Hello`**~~
+
+~~***`Hello`***~~
