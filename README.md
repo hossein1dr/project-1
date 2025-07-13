@@ -57,5 +57,5 @@ And it's real change from Sony, Here is my change.
 - second
   - first
  ----
-  [this is the first link :](www.google.com)
+  [this is the first link ](https://google.com)
 
