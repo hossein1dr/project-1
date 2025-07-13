@@ -16,6 +16,8 @@ let 2
 
 [Click here for Google](https://google.com)
 
-<img src="download.webp" width="400" height="200" alt="Alt Text">
+<img src="images 2/download.webp" width="400" height="200" alt="Alt Text">
 
-![alt text](download.webp)
+<img src="images 2/download.webp" width="400" height="200" alt="Alt Text">
+
+![alt text](image 2/download.webp)
