@@ -31,3 +31,10 @@ let 2
 
 First Text [^1]
 [^1]: First
+##
+$$
+Test (Math) >
+2(x)-4=8
+$$
+#
+<div style="width:200px; height:200px; background-color:gray; border-radius: 20px;text-align: center; align-content: center; font-size:50px; color: khaki;">Hello</div>
