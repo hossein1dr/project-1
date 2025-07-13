@@ -21,3 +21,5 @@ let 2
 <img src="images 2/download.webp" width="400" height="200" alt="Alt Text">
 
 ![alt text](image 2/download.webp)
+
+>***This is a bold-italic text***
