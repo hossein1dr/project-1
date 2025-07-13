@@ -84,13 +84,29 @@ age:17
 ---
 ## Definition List
  
-First list
+    First list
 : this is a one test
 
-Second list 
+    Second list 
 : this is a two test  
 
 ----
 ## Strikethrough
 
 ~~this is a test~~
+
+---
+## Task List
+
+- [x] insert
+- [ ] Update 
+- [ ] delete
+
+---
+## Emoji
+ emoji one :joy:
+ emoji two :laughing:
+ emoji tree :melting face:
+
+ ---
+
