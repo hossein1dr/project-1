@@ -80,4 +80,17 @@ age:17
 
 [^note]: Centeral Processing Unit. 
 
-### My Great Heading {#custom-id}
+
+---
+## Definition List
+ 
+First list
+: this is a one test
+
+Second list 
+: this is a two test  
+
+----
+## Strikethrough
+
+~~this is a test~~
