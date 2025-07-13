@@ -42,6 +42,8 @@ And it's real change from Sony, Here is my change.
 *this is italic text test*
 >this is blockquote text test
 
+The brain of every computer is cpu. [^note]
+
 # Ordered List
 
 1.hosein
@@ -74,8 +76,8 @@ age:17
 [^1]:this is a first note. -->
 
 
-The brain of every computer is cpu. [^note]
+
 
 [^note]: Centeral Processing Unit. 
 
-Mamad nobari
+
