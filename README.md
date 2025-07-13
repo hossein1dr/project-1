@@ -134,8 +134,11 @@ X^2^
 #### Hello
 ##### Hello
 ###### Hello
-$ Hello $
+
+$Hello$
+
 $$ Hello $$
+
 *Hello*
 
 **Hello**
@@ -154,12 +157,6 @@ $$ Hello $$
 #### `Hello`
 ##### `Hello`
 ###### `Hello`
-
-$Hello$
-
-$$ Hello $$
-
-*Hello*
 
 **`Hello`**
 
