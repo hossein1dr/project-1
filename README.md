@@ -69,6 +69,10 @@ age:17
 ---
 ## Footnote
 
+this is a first note.[^1]
+
+[^1]:this is a first note.
 
 
- This is the first footnote.[^1]
+[^importsnt] :this not is vary important!
+[^note]:this is a note
