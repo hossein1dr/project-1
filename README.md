@@ -77,3 +77,5 @@ age:17
 The brain of every computer is cpu. [^note]
 
 [^note]: Centeral Processing Unit. 
+
+Mamad nobari
