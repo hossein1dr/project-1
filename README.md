@@ -29,14 +29,34 @@ void hello_world(String x, int age):
 ----- 
 | Home  | Photo     | Games          | Names  | Citys |
 |-------|-----------|----------------|--------|-------|
-| hello | bmw.jpg   | pubg           | hosein |Theran |
-| good  | benz.jpg  | call of duty   | hamid  |Shiraz |
-| No    | doge.png  | gta            | hesam  |Gilan  |
+| hello | ![__lamborghini_veneno_sports_car-HD](__lamborghini_veneno_sports_car-HD.jpg)   | pubg           | hosein |Theran |
+| good  | ![dodge](__2014_dodge_challenger_rt_classic-wide.jpg)| call of duty   | hamid  |Shiraz |
+| No    | ![Nissan GTR](__amazing_nissan_gtr-wide.jpg)  | gta            | hesam  |Gilan  |
 
 ### Artin's change
 
 And it's real change from Sony, Here is my change.
 
 **this is bold text test**
+
+*this is italic text test*
+>this is blockquote text test
+
+# Ordered List
+
+1.hosein
+
+2.artin
+
+3.hamid
+
+----
+# Unordered List
+
+- first
+- second
+  - first
+ ----
+ 
 
 
