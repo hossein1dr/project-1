@@ -106,7 +106,7 @@ age:17
 ## Emoji
  emoji one :joy:
  emoji two :laughing:
- emoji tree :melting face:
+ emoji tree :star-struck:
 
  ---
 
