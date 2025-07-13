@@ -70,5 +70,5 @@ age:17
 ## Footnote
 
 
-	Here's a sentence with a footnote. 
-[^1]: This is the first footnote.
+
+ This is the first footnote.[^1]
