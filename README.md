@@ -105,10 +105,22 @@ age:17
 ---
 ## Emoji
  emoji one :joy:
- 
+
  emoji two :laughing:
 
  emoji tree :tongue:
 
  ---
 
+## HighLight
+==this is a test==
+
+---
+## Subscript
+
+ H~2~O
+  
+  ---
+  ## Superscript
+
+X^2^
