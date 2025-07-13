@@ -34,7 +34,8 @@ artifacts/
 *.bak
 
 # Ignore test results
-TestResults/
+
+!bin/Release/Program.exe
 
 # NuGet packages
 *.nupkg
@@ -46,3 +47,4 @@ secrets.json
 appsettings.Development.json
 .env
 .env.*
+
