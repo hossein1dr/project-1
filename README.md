@@ -64,8 +64,8 @@ The brain of every computer is cpu. [^note]
 ----
 ## Fenced Code Block
 ```
-first name:hosein,
-last name:daryaei,
+first name: Hosein,
+last name:Daryaei,
 age:17
 ```
 ---
@@ -78,6 +78,18 @@ age:17
 
 
 
-[^note]: Centeral Processing Unit. 
+[^note]: Central Processing Unit. 
 
-### My Great Heading {#custom-id}
+---
+## Definition List
+ 
+First list
+: this is a one test
+
+Second list 
+: this is a two test  
+
+----
+## Strikethrough
+
+~~
