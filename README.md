@@ -30,7 +30,7 @@ void hello_world(String x, int age):
 | Home  | Photo     | Games          | Names  | Citys |
 |-------|-----------|----------------|--------|-------|
 | hello | ![lamborghini](images/img-1.jpg)   | pubg           | hosein |Theran |
-| good  | ![dodge](images/img-2.jpg)| call of duty   | hamid  |Shiraz |
+| good  | <img src="images/img-2.jpg" width=150 height=100>| call of duty   | hamid  |Shiraz |
 | No    | ![Nissan GTR](images/img-3.jpg)  | gta            | hesam  |Gilan  |
 
 ### Artin's change
