@@ -92,4 +92,4 @@ Second list
 ----
 ## Strikethrough
 
-~~
+~~this is a test~~
