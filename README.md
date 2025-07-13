@@ -69,12 +69,11 @@ age:17
 ---
 ## Footnote
 
-this is a first note.[^1]
+<!-- this is a first note [^1]
 
-[^1]:this is a first note.
+[^1]:this is a first note. -->
 
 
-hello. [^importsnt] 
-[^important] :this note is vary important!
-this is a note. [^note]
-[^note]:this is a note
+The brain of every computer is cpu. [^note]
+
+[^note]: Centeral Processing Unit. 
