@@ -1,169 +1,52 @@
-# Project 1
+   # **خلاصه کامل لایسنس‌های رایج در گیت**
 
-This the brand new our first project over GitHub Server.
+---
 
-## TODOs and Tasks:
+# **1. GPL[^1]**
 
-+ Create new GitHub repository and called it `project-2`.
-+ Install spell extension in vscode.
-+ Artin: Learn how does Node.js work?
-+ Full learn of Markdown markup language.
-+ Learn overally about packages and a project dependencies.
-+ Overall learn about the following licenses (write the result inside this markdown file):
-    + GPL (All version) mention all differences
-    + MIT
-    + Apache
-+ Extra: Hossein should add Artin as a new contributer to the 
-`project-2`.
-+ Difference between `framework` and `library`.
-```py
-def hello_world():
-    print("Say hello world")
-```
+## **`نوع:`** **`Copyleft` `قوی `** 
+>**`کاربرد در گیت:`** وقتی پروژه‌ات تحت `GPL` باشه، هر کسی که کد تو رو می‌گیره و تغییر می‌ده، باید کد تغییر یافته را هم به صورت آزاد و تحت همین لایسنس منتشر کنه. 
 
-```dart
-void hello_world(String x, int age):
-    print("Say hello world")
-```
-### Table 
------ 
-| Home  | Photo     | Games          | Names  | Citys |
-|-------|-----------|----------------|--------|-------|
-| hello | <img src="images/img-1.jpg" alt="dodge" width=150 height=100>  | pubg           | hosein |Theran |
-| good  | <img src="images/img-2.jpg" alt="Nissan GTR" width=150 height=100>| call of duty   | hamid  |Shiraz |
-| No    | <img src="images/img-3.jpg" alt="lamborghini" width=150 height=100> | gta            | hesam  |Gilan  |
+> **`مزایا:`** تضمین می‌کنه همه نسخه‌های مشتق شده هم متن‌باز باقی بمونند.  
 
-### Artin's change
+> **`معایب:`** محدود کننده‌تر از بقیه؛ ممکنه نذاره کد تو با نرم‌افزارهای بسته `Closed Source` ترکیب بشه.  
 
-And it's real change from Sony, Here is my change.
+> **`نسخه‌ها:`** نسخه‌های مختلف مثل `GPLv2` و `GPLv3` هستن که نسخه 3 جدیدتر و مدرن‌تره و حمایت‌های بیشتری مثل مقابله با `DRM` و پتنت داره.
 
-**this is bold text test**
+---
 
-*this is italic text test*
->this is blockquote text test
+# **2. MIT[^2] License**
 
-The brain of every computer is cpu. [^note]
+## **`نوع:`** **`Permissive` `(آزاد و ساده)`**
+>**`کاربرد در گیت:`** تقریباً هر کاری که بخوای می‌تونی با کد انجام بدی؛ استفاده، تغییر، توزیع و حتی استفاده در پروژه‌های تجاری بدون الزام به آزاد کردن کد تغییر یافته.  
 
-# Ordered List
+> **`مزایا:`** ساده، کم‌دردسر و قابل استفاده در هر پروژه‌ای.  
 
-1.hosein
+> **`معایب:`** هیچ اجباری برای اشتراک گذاری تغییرات وجود نداره.
 
-2.artin
+---
 
-3.hamid
+# **3. Apache License 2.0**
 
+##  **`نوع:`** **`Permissive با محافظت پتنت`** 
+
+> **`کاربرد در گیت:`** مثل `MIT` باز و آزاد ولی با تضمین بیشتر در مورد حق پتنت و محافظت قانونی بهتر برای توسعه‌دهندگان.  
+
+> **`مزایا:`** اجازه استفاده آزاد همراه با محافظت در برابر شکایت‌های پتنتی، همچنین اجازه می‌دهد کد با نرم‌افزارهای بسته ترکیب شود.  
+
+ > **`معایب:`** پیچیدگی کمی بیشتر نسبت به `MIT` دارد ولی همچنان خیلی منعطف است.
+
+---
+
+# نکات مهم برای استفاده در گیت
+
+- همیشه تو فایل `LICENSE` پروژه، نوع لایسنس رو مشخص کن.  
+- موقع استفاده از لایسنس `copyleft` مثل `GPL`، مراقب باش که قوانین اشتراک گذاری رو رعایت کنی.  
+- اگر می‌خوای کد ساده، آزاد و قابل استفاده برای همه باشه بدون دردسر، `MIT` گزینه عالیه.  
+- اگر نگران پتنت هستی یا پروژه بزرگ‌تره، `Apache 2.0` گزینه مطمئن‌تریه.
 ----
-# Unordered List
+[^1]GNU General Public License.
 
-- first
-- second
-  - first
- ----
-  [this is the first link ](https://google.com)
-
-----
-## Fenced Code Block
-```
-first name:hosein,
-last name:daryaei,
-age:17
-```
----
-## Footnote
-
-<!-- this is a first note [^1]
-
-[^1]:this is a first note. -->
+[^2]Massachusetts Institute of Technology.
 
 
-
-
-[^note]: Centeral Processing Unit. 
-
-
----
-## Definition List
- 
-    First list
-: this is a one test
-
-    Second list 
-: this is a two test  
-
-----
-## Strikethrough
-
-~~this is a test~~
-
----
-## Task List
-
-- [x] insert
-- [ ] Update 
-- [ ] delete
-
----
-## Emoji
- emoji one :joy:
-
- emoji two :laughing:
-
- emoji tree :tongue:
-
- ---
-
-## HighLight
-***`this is a test`***
-
----
-## Subscript
-
- H~2~O
-  
-  ---
-  ## Superscript
-
-X^2^
-
----
-## **`Fonts Size`** 
-
-# Hello
-## Hello
-### Hello
-#### Hello
-##### Hello
-###### Hello
-
-$Hello$
-
-$$ Hello $$
-
-*Hello*
-
-**Hello**
-
-***Hello***
-
-~~Hello~~
-
-~~**Hello**~~
-
-~~***Hello***~~
-
-# `Hello`
-## `Hello`
-### `Hello`
-#### `Hello`
-##### `Hello`
-###### `Hello`
-
-**`Hello`**
-
-***`Hello`***
-
-~~`Hello`~~
-
-~~**`Hello`**~~
-
-~~***`Hello`***~~
