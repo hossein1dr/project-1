@@ -41,3 +41,7 @@ $$
 
 #
 ## dd
+~~dd~~
+#
+term
+: definition
