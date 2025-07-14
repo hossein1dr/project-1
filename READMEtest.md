@@ -45,3 +45,43 @@ $$
 #
 term
 : definition
+
+> This is a blockquote.
+> Want to write on a new line with space between?
+>
+> > And nested? No problem at all.
+> >
+> > > PS. you can **style** your text _as you want_.
+> > > > 1
+> > > > > 2
+
+1. Learn Basics
+   1. HTML
+   7. CSS
+   1. Javascript
+3. Learn One Framework
+   - React 
+     - Router
+     + Redux
+        - 1
+            + 2
+   * Vue
+   + Svelte
+   
+#
+
+- [ ] 1
+- [x] 2
+- [ ] 3
+
+***
+---
+<details>
+  <summary>summery tag 🎭</summary>
+
+  - 1
+  + 2
+  
+</details>
+
+<button style="width: 100px; color:white; background-color: gray; border-radius: 100cm;">1</button>
