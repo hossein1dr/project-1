@@ -4,18 +4,18 @@ This the brand new our first project over GitHub Server.
 
 ## TODOs and Tasks:
 
-+ [x] ~~Create new GitHub repository and called it `project-2`.~~
-+ [x] ~~Install spell extension in vscode.~~
-+ [x] ~~Artin: Learn how does Node.js work?~~
-+ [x] ~~Full learn of Markdown markup language.~~
-+ [x] ~~Learn overally about packages and a project dependencies.~~
-+ [x] ~~Overall learn about the following licenses (write the result inside this markdown file):~~
-    + ~~GPL (All version) mention all differences~~
-    + ~~MIT~~
-    + ~~Apache~~
-+ [x] ~~Extra: Hossein should add Artin as a new contributer to the 
-`project-2`.~~
-+ [x] ~~Difference between `framework` and `library`.~~
++ [x] Create new GitHub repository and called it `project-2`.
++ [x] Install spell extension in vscode.
++ [x] Artin: Learn how does Node.js work?
++ [x] Full learn of Markdown markup language.
++ [x] Learn overally about packages and a project dependencies.
++ [x] Overall learn about the following licenses (write the result inside this markdown file):
+    + GPL (All version) mention all differences
+    + MIT
+    + Apache
++ [x] Extra: Hossein should add Artin as a new contributer to the 
+`project-2`.
++ [x] Difference between `framework` and `library`.
 ```py
 def hello_world():
     print("Say hello world")
